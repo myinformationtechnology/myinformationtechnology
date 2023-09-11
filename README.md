@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Masterthesis "Konzeption und Umsetzung einer sicherheitszentrierten CloudNative-Microservice-Architektur"](Masterthesis "Konzeption und Umsetzung einer sicherheitszentrierten CloudNative-Microservice-Architektur")
 
-- 💬 Ask me about **DeVOps und Cloud Computing**
+- 💬 Ask me about **DevOps und Cloud Computing**
 
 - 📫 How to reach me **myinformationtechnology.369@gmail.com**
 
